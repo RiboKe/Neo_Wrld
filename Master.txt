@@ -1,2 +1,4 @@
+
 <Version: 1.3>
+\data\Map0001.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map001.json
 <End of Version>
