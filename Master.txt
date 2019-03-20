@@ -1,21 +1,24 @@
 
 <Version: 1.3.1>
-\data\Map0001.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map0001.json
-\data\Actors.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Actors.json
-\data\Animations.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Animations.json
-\data\Armors.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Armors.json
-\data\Classes.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Classes.json
-\data\CommonEvents.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/CommonEvents.json
-\data\Enemies.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Enemies.json
-\data\Items.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Items.json
-\data\Map001.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map0001.json
-\data\Map002.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map002.json
-\data\MapInfos.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/MapInfos.json
-\data\Skills.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Skills.json
-\data\States.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/States.json
-\data\System.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/System.json
-\data\Tilesets.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Tilesets.json
-\data\Troops.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Troops.json
-\data\Weapons.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Weapons.json
-\index.html https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/index.html
+<End of Version>
+
+<Version: 1.3>
+/data/Map0001.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map0001.json
+/data/Actors.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Animations.json
+/data/Armors.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Classes.json
+/data/CommonEvents.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/CommonEvents.json
+/data/Enemies.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Items.json
+/data/Map001.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map0001.json
+/data/Map002.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Map002.json
+/data/MapInfos.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/MapInfos.json
+/data/Skills.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Skills.json
+/data/States.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/States.json
+/data/System.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/Weapons.json
+/index.html https://raw.githubusercontent.com/RiboKe/Neo_Wrld/master/index.html
 <End of Version>
